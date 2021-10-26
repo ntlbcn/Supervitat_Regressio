@@ -1,6 +1,6 @@
 # Algoritmes d'aprenentatge supervisat: Regressió
 
-**Objectiu general: **
+**Objectiu general:**
 - Aplicar correctament els algoritmes d'aprenentatge supervisats amb Regressions 
 
 **Objectius específics:**
